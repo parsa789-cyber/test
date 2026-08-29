@@ -1,2 +1,2 @@
 # test
-this is a test repo for learning git
+editing this README for test
